@@ -1,0 +1,13 @@
+{
+  "name": "@interannette/how-to-npm",
+  "version": "1.0.1",
+  "description": "My how-to-npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "repositoriy": "https://github.com/interannette/node-school",
+  "license": "ISC",
+  "dependencies": {}
+}
